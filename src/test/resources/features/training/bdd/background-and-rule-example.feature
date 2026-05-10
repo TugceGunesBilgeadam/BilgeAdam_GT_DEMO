@@ -1,4 +1,5 @@
-@training @bdd @smoke @happy
+@training @bdd @smoke
+
 Feature: Background and Rule educational examples
 
   Background:

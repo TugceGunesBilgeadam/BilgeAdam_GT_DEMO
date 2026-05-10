@@ -7,7 +7,7 @@ Feature: Scenario quality comparison for trainers
     When I click many things and wait a bit and continue
     Then it should work somehow
 
-  Scenario: Improved explicit scenario
+  Scenario: Improved explicit scenario-1
     Given I am on ParaBank login page
     When I login with invalid credentials
     Then I should see an authentication error message
